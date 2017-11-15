@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    
+    
+
+	
+        
+    <!--  profile -->
+    <detail>
+        <variable>edit_profile</variable>
+        <th>แก้ไขข้อมูลส่วนตัว</th>
+        <en>Edit Profile</en>
+    </detail>
+    
+    <detail>
+        <variable>lb_pf_name</variable>
+        <th>ชื่อ</th>
+        <en>First Name</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_lastname</variable>
+        <th>นามสกุล</th>
+        <en>Last Name</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass_old</variable>
+        <th>รหัสผ่านเดิม</th>
+        <en>Old Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass</variable>
+        <th>รหัสผ่านใหม่</th>
+        <en>New Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass_confirm</variable>
+        <th>ยืนยันรหัสผ่านใหม่</th>
+        <en>Confirm New Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_img</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_Info</variable>
+        <th>ข้อมูลส่วนตัว</th>
+        <en>Personal Info</en>
+    </detail>    
+    <detail>
+        <variable>lb_pf_image</variable>
+        <th>เปลี่ยนรูปภาพ</th>
+        <en>Change image</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_Password</variable>
+        <th>เปลี่ยนรหัสผ่าน</th>
+        <en>Change Password</en>
+    </detail>    
+    
+    <!--  profile -->    
+        
+       
+    <!--  lb_cs --> 
+    <detail>
+        <variable>lb_cs_firstname</variable>
+        <th>ชื่อ</th>
+        <en>Firstname</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_lastname</variable>
+        <th>นามสกุล</th>
+        <en>Lastname</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_phone</variable>
+        <th>เบอร์โทรศัพท์</th>
+        <en>Phone</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_email</variable>
+        <th>E-Mail</th>
+        <en>Email</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_line</variable>
+        <th>ไอดี ไลน์</th>
+        <en>ID Line</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_bank</variable>
+        <th>ธนาคาร</th>
+        <en>Bank</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_bank_adm</variable>
+        <th>บัญชีธนาคารที่ถอนเงินเพื่อนำจ่าย</th>
+        <en>Bank</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_menu</variable>
+        <th>เมนู (หน้า)</th>
+        <en>Menu (Page)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_log_other</variable>
+        <th>ค้นหาจากคำอื่นๆที่เกี่ยวข้อง</th>
+        <en>Search by other words related.</en>
+    </detail>
+    
+    <detail>
+        <variable>lb_cs_action</variable>
+        <th>การกระทำ (Action)</th>
+        <en>Action</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_log_user_action</variable>
+        <th>ชื่อผู้ใช้งานที่กระทำ (Username)</th>
+        <en>Username Action</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_account_no</variable>
+        <th>เลขที่บัญชีธนาคาร</th>
+        <en>Bank Account No</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_account_name</variable>
+        <th>ชื่อบัญชีธนาคาร</th>
+        <en>Bank Account Name</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_username</variable>
+        <th>ชื่อผู้ใช้งาน (Username)</th>
+        <en>Username</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_password</variable>
+        <th>รหัสผ่าน (Password)</th>
+        <en>Password</en>
+    </detail>
+    <detail> 
+        <variable>lb_cs_security</variable>
+        <th>รหัสถอนเงิน (6 ตัว)</th>
+        <en>Security Code</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_seo</variable>
+        <th>รู้จักเว็บไซต์เราจาก</th>
+        <en>Know website from</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_time</variable>
+        <th>ช่วงเวลาที่สะดวกในการติดต่อ</th>
+        <en>Convenient time to contact</en>
+    </detail> 
+    
+    <detail>
+        <variable>lb_cs_dp_amount</variable>
+        <th>จำนวนเงินแจ้งฝาก (บาท)</th>
+        <en>Amount Deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_dp_bonus</variable>
+        <th>โบนัสที่ได้รับจากโปรโมชัน</th>
+        <en>Bonus Amount</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_dp_total</variable>
+        <th>รวมเป็นเงิน</th>
+        <en>Total Amount</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_wd_amount</variable>
+        <th>จำนวนเงินแจ้งถอน (บาท)</th>
+        <en>Amount Withdraw</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_chanel</variable>
+        <th>ช่องทางการฝากเงิน</th>
+        <en>Chanel Deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_promotion</variable>
+        <th>โปรโมชั่น</th>
+        <en>Promotion</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_website</variable>
+        <th>เว็บไซต์</th>
+        <en>Website</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_special_bonus</variable>
+        <th>โปรโมชันโบนัสฟรี</th>
+        <en>Special Bonus</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_use</variable>
+        <th>จำนวนที่สามารถใช้ได้ต่อคน (กรณีใช้ได้ไม่จำกัดใส่ 0)</th>
+        <en>Number available to people.</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_datetime</variable>
+        <th>วันเวลาที่แจ้งฝากเงิน</th>
+        <en>DateTime Deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_date</variable>
+        <th>วันที่แจ้งฝากเงิน</th>
+        <en>Date Deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_time</variable>
+        <th>เวลาที่แจ้งฝากเงิน</th>
+        <en>Time Deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_premise</variable>
+        <th>หลักฐาน</th>
+        <en>Premise</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_bankno</variable>
+        <th>เลขบัญชีธนาคาร</th>
+        <en>Bank Account no</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_bank_th</variable>
+        <th>ชื่อธนาคาร</th>
+        <en>Bank name (TH)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_bank_en</variable>
+        <th>ชื่อธนาคาร (อังกฤษ)</th>
+        <en>Bank name (EN)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_bank_name_th</variable>
+        <th>ชื่อบัญชีธนาคาร</th>
+        <en>Account name (TH)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_bank_name_en</variable>
+        <th>ชื่อบัญชีธนาคาร (อังกฤษ)</th>
+        <en>Account name (EN)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_range_date</variable>
+        <th>วันที่เริ่ม - วันที่สิ้นสุด</th>
+        <en>Start Date  - End Date</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_by_username</variable>
+        <th>ชื่อผู้ใช้งาน</th>
+        <en>Username</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_by_fullname</variable>
+        <th>ชื่อ - นามสกุล</th>
+        <en>Fullname</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_by_phone</variable>
+        <th>เบอร์โทรศัพท์</th>
+        <en>Phone</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_hd_deposit</variable>
+        <th>รายการ - แจ้งฝาก</th>
+        <en>List Deposit</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_hd_withdraw</variable>
+        <th>รายการ - แจ้งถอน</th>
+        <en>List Withdraw</en>
+    </detail>   
+    <detail>
+        <variable>lb_cs_rs_dp_status</variable>
+        <th>ยอดแจ้งฝากสถานะ </th>
+        <en>Deposit </en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_wd_status</variable>
+        <th>ยอดแจ้งถอนสถานะ </th>
+        <en>Withdraw </en>
+    </detail> 
+    
+    <detail>
+        <variable>lb_cs_rs_dp_appr</variable>
+        <th>ยอดแจ้งฝากรวมโบนัสสถานะ (อนุมัติ)</th>
+        <en>Deposit (Approve)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_dp_appr_bonus</variable>
+        <th>ยอดโบนัสโปรโมชันสถานะ (อนุมัติ)</th>
+        <en>Bonus Promotion Deposit (Approve)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_dp_appr_bonus_special</variable>
+        <th>ยอดโปรโมชันโบนัสฟรีสถานะ (อนุมัติ)</th>
+        <en>Bonus Special Deposit (Approve)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_dp_pend</variable>
+        <th>ยอดแจ้งฝากสถานะ (รอดำเนินการ)</th>
+        <en>Deposit (Pending)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_dp_rej</variable>
+        <th>ยอดแจ้งฝากสถานะ (ปฏิเสธ)</th>
+        <en>Deposit (Reject)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_dp</variable>
+        <th>ยอดแจ้งฝากทั้งหมด</th>
+        <en>Total deposit</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_rs_wd_appr</variable>
+        <th>ยอดแจ้งถอนสถานะ (อนุมัติ)</th>
+        <en>Withdraw (Approve)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_rs_wd_pend</variable>
+        <th>ยอดแจ้งถอนสถานะ (รอดำเนินการ)</th>
+        <en>Withdraw (Pending)</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_rs_wd_rej</variable>
+        <th>ยอดแจ้งถอนสถานะ (ปฏิเสธ)</th>
+        <en>Withdraw (Reject)</en>
+    </detail>  
+    <detail>
+        <variable>lb_cs_rs_wd</variable>
+        <th>ยอดแจ้งถอนทั้งหมด</th>
+        <en>Total withdraw</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_rs_result</variable>
+        <th>ยอดสุทธิ</th>
+        <en>Net balance</en>
+    </detail>    
+    <detail>
+        <variable>lb_cs_ref_friend</variable>
+        <th>ชื่อเพื่อนที่แนะนำ</th>
+        <en>Ref. Friend</en>
+    </detail>   
+      
+    <detail>
+        <variable>lb_cs_dash_profit</variable>
+        <th>กำไร</th>
+        <en>TOTAL PROFIT</en>
+    </detail>    
+    <detail>
+        <variable>lb_cs_dash_pending</variable>
+        <th>รอดำเนินการ</th>
+        <en>PENDING</en>
+    </detail>    
+    <detail>
+        <variable>lb_cs_view_12</variable>
+        <th>ยอด TurnOver รวม Level 1-2 : f1 บาท / คิดเป็นเงินที่ได้รับ f2 บาท</th>
+        <en>TurnOver total Level 1-2 : f1 Baht / accounted for the amount received f2 Baht</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_view_1</variable>
+        <th>ยอด TurnOver รวม f1 บาท / ยอด 0.2% คิดเป็นเงินที่ได้รับ f2 บาท</th>
+        <en>TurnOver total : f1 Baht / Balance 0.2%, the amount received f2 Baht</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_view_2</variable>
+        <th>ยอด TurnOver รวม f1 บาท / ยอด 0.1% คิดเป็นเงินที่ได้รับ f2 บาท</th>
+        <en>TurnOver total : f1 Baht / Balance 0.1%, the amount received f2 Baht</en>
+    </detail>  
+    <detail>
+        <variable>lb_cs_type</variable>
+        <th>ประเภทผู้ใช้งาน</th>
+        <en>Type</en>
+    </detail>   
+    <detail>
+        <variable>lb_ui_pointion</variable>
+        <th>ตำแหน่ง</th>
+        <en>Position</en>
+    </detail>   
+    
+    <detail>
+        <variable>lb_ui_type</variable>
+        <th>ประเภท</th>
+        <en>Type</en>
+    </detail>   
+    
+    <detail>
+        <variable>lb_ui_sv</variable>
+        <th>เซอร์เวอร์</th>
+        <en>Server</en>
+    </detail> 
+    <detail>
+        <variable>lb_ui_sv_src</variable>
+        <th>ที่อยู่ไฟล์</th>
+        <en>Source File</en>
+    </detail>    
+    <detail>
+        <variable>lb_ui_img_1</variable>
+        <th>รูปภาพที่ 1</th>
+        <en>Image 1</en>
+    </detail> 
+    <detail>
+        <variable>lb_ui_img_2</variable>
+        <th>รูปภาพที่ 2</th>
+        <en>Image 2</en>
+    </detail> 
+    <detail>
+        <variable>lb_ui_img_video</variable>
+        <th>รูปภาพหน้าปก</th>
+        <en>Image Video</en>
+    </detail> 
+    <detail>
+        <variable>lb_ui_index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_pro_th</variable>
+        <th>โปรโมชัน</th>
+        <en>Promotion TH</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_pro_en</variable>
+        <th>โปรโมชันภาษาอังกฤษ</th>
+        <en>Promotion EN</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_promotion_bonus</variable>
+        <th>รับโบนัส (%)</th>
+        <en>Bonus (%)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_promotion_maxbath</variable>
+        <th>จำนวนเงินสูงสุด (บาท)</th>
+        <en>Max Amount Bonus</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_pro_condi_th</variable>
+        <th>เงื่อนไขโปรโมชัน</th>
+        <en>Condition Promotion TH</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_pro_condi_en</variable>
+        <th>เงื่อนไขโปรโมชันภาษาอังกฤษ</th>
+        <en>Condition Promotion EN</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_excel</variable>
+        <th>ไฟล์ข้อมูล (.xlsx)</th>
+        <en>File Excel (.xlsx)</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_main_user</variable>
+        <th>ผู้ใช้หลัก</th>
+        <en>Main User</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_sub_user</variable>
+        <th>ผู้ใช้รองคนที่ </th>
+        <en>Sub User No. </en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_sub_user_only</variable>
+        <th>ผู้ใช้รอง</th>
+        <en>Sub User</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_add_sub_user</variable>
+        <th>เพิ่มข้อมูลผู้ใช้รอง</th>
+        <en>Add Sub User</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_delete_sub_user</variable>
+        <th>ลบข้อมูลผู้ใช้รองทั้งหมด</th>
+        <en>Delete ALL Sub User</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_view_main</variable>
+        <th>ผู้ใช้หลัก</th>
+        <en>MAIN</en>
+    </detail> 
+    <detail>
+        <variable>lb_cs_view_level</variable>
+        <th>ระดับ </th>
+        <en>LEVEL </en>
+    </detail> 
+      
+    <!--  lb_cs -->  
+	
+        
+    <!--  lb_cs_valide security -->  
+    <detail>
+        <variable>lb_cs_res_user_null</variable>
+        <th>ไม่มีผู้ใช้นี้ในระบบ</th>
+        <en>No user of this system.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_secu_null</variable>
+        <th>รหัสความปลอดภัยของผู้ใช้งานนี้ไม่ถูกต้อง</th>
+        <en>This user's security code is invalid.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_phone_null</variable>
+        <th>เบอร์โทรศัทพ์ของผู้ใช้ไม่ตรงตามข้อมูลที่สมัคร</th>
+        <en>User's phone number does not match.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_bank_null</variable>
+        <th>ข้อมูลบัญชีธนาคารของผู้ใช้ไม่ตรงตามข้อมูลที่สมัคร</th>
+        <en>Bank Account information user does not match.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_user</variable>
+        <th>มีผู้ใช้นี้ในระบบ</th>
+        <en>User of this system.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_secu</variable>
+        <th>รหัสความปลอดภัยของผู้ใช้งานนี้ถูกต้อง</th>
+        <en>This user's security code match.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_phone</variable>
+        <th>เบอร์โทรศัทพ์ของผู้ใช้ตรงตามข้อมูลที่สมัคร</th>
+        <en>User's phone number match.</en>
+    </detail>
+    <detail>
+        <variable>lb_cs_res_bank</variable>
+        <th>ข้อมูลธนาคารของผู้ใช้ตรงตามข้อมูลที่สมัคร</th>
+        <en>User's bank information matches.</en>
+    </detail>
+    <!--  lb_cs_valide security -->  
+    
+    
+    <!-- lb_ui -->  
+    
+    <detail>
+        <variable>lb_ui_desc_th</variable>
+        <th>รายละเอียดภาษาไทย</th>
+        <en>Descption TH</en>
+    </detail>
+    <detail>
+        <variable>lb_ui_desc_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Descption EN</en>
+    </detail>
+    <detail>
+        <variable>lb_ui_desc_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Descption EN</en>
+    </detail>
+    <detail>
+        <variable>lb_ui_subject_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Subject EN</en>
+    </detail>
+    <detail>
+        <variable>lb_ui_subject_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Subject EN</en>
+    </detail>
+    <detail>
+        <variable>lb_uim_img_1</variable>
+        <th>รูปภาพที่หน้าปก</th>
+        <en>Image Main</en>
+    </detail> 
+    <detail>
+        <variable>lb_uim_img_2</variable>
+        <th>รูปภาพที่หน้ารายละเอียด</th>
+        <en>Image Detail</en>
+    </detail> 
+    <!-- lb_ui -->  
+     
+     
+    <!-- lb post -->  
+    <detail>
+        <variable>lb_po_pointion</variable>
+        <th>ตำแหน่ง</th>
+        <en>Position</en>
+    </detail>
+    <detail>
+        <variable>lb_po_index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_desc_th</variable>
+        <th>รายละเอียดภาษาไทย</th>
+        <en>Descption TH</en>
+    </detail>
+    <detail>
+        <variable>lb_po_desc_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Descption EN</en>
+    </detail>
+    <detail>
+        <variable>lb_po_desc_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Descption EN</en>
+    </detail>
+    <detail>
+        <variable>lb_po_subject_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Subject TH</en>
+    </detail>
+    <detail>
+        <variable>lb_po_subject_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Subject EN</en>
+    </detail>
+    <detail>
+        <variable>lb_po_img_1</variable>
+        <th>รูปภาพที่หน้าปก</th>
+        <en>Image Main</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_img_2</variable>
+        <th>รูปภาพที่หน้ารายละเอียด</th>
+        <en>Image Detail</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_img_url</variable>
+        <th>ลิงค์สำหรับรูปภาพหน้าปก</th>
+        <en>Link Image Main</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_view</variable>
+        <th>จำนวนเข้าดู</th>
+        <en>View count</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_vote</variable>
+        <th>จำนวนคนกดโหวต</th>
+        <en>Vote count</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_sv</variable>
+        <th>เซอร์เวอร์</th>
+        <en>Server</en>
+    </detail> 
+    <detail>
+        <variable>lb_po_sv_src</variable>
+        <th>ที่อยู่ไฟล์</th>
+        <en>Source File</en>
+    </detail>   
+    <detail>
+        <variable>lb_po_mail_subject</variable>
+        <th>หัวข้อ E-Mail</th>
+        <en>Subject Email</en>
+    </detail>   
+    <detail>
+        <variable>lb_po_mail_detail</variable>
+        <th>รายละเอียด E-Mail</th>
+        <en>Detail Emil</en>
+    </detail>   
+    <detail>
+        <variable>lb_po_status_auto</variable>
+        <th>สถานะการเล่นอัตโนมัติ</th>
+        <en>Status AutoPlay</en>
+    </detail>  
+    <detail>
+        <variable>lb_po_pass_youtube</variable>
+        <th>รหัสช่องยูทูป</th>
+        <en>Key-Channel YouTube</en>
+    </detail>   
+  
+    <!-- lb post -->  
+	
+    
+            
+        
+        
+      
+    
+    
+</language>

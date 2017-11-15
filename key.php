@@ -1,0 +1,15 @@
+<?php
+//$K_USERNAME = '3IBTemovt6OpUPPSsDa3dZdRIQgmwiLOLvNQA3jsMEQ=';
+//$K_PASSWORD = '3c7tlupJU0EafPYkUhMJuqPV/W67gegVPhkFwDVz7ek=';
+//$K_ACCOUNT_NAME = '022-8-88646-7';
+
+$xkey = 'ChZonUFbByx4';
+$T_USERNAME = 'Pu9U254EPLlklMwWeVZnWJESFXxv6xwgan+lhfLb2T0=';
+$T_PASSWORD = 'oQODuZv0WxocNa/jWfm6p0Y7XG4QVxVc2k4XBjQg7VQ=';
+$T_ACCOUNT_NAME = '744-0-16830-5';
+
+
+
+
+
+?>

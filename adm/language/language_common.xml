@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    
+    <!--  Check Sessions -->
+    <detail>
+        <variable>checkSession</variable>
+        <th>TRUE</th>
+        <en>TRUE</en>
+    </detail>
+    <!--  Check Sessions -->
+    <!--  Title -->
+    <detail>
+        <variable>title</variable>
+        <th>BET SYSTEM MANAGEMENT</th>
+        <en>BET SYSTEM MANAGEMENT</en>
+    </detail>
+    <detail>
+        <variable>title_icon</variable>
+        <th>images/favicon.ico</th>
+        <en>images/favicon.ico</en>
+    </detail>
+    <detail>
+        <variable>title_content</variable>
+        <th>bet,expwebdesign,bet system,BET SYSTEM</th>
+        <en>bet,expwebdesign,bet system,BET SYSTEM</en>
+    </detail>
+    
+   
+    
+    <!--  Title -->
+    
+    
+    <!--  Notification -->
+    <detail>
+        <variable>noti_reg</variable>
+        <th>ลูกค้าสมัครสมาชิกใหม่</th>
+        <en>New customer registered.</en>
+    </detail>	
+    <detail>
+        <variable>noti_dp</variable>
+        <th>ลูกค้าแจ้งฝากเงิน</th>
+        <en>New customer Deposit.</en>
+    </detail>
+    <detail>
+        <variable>noti_wd</variable>
+        <th>ลูกค้าแจ้งถอนเงิน</th>
+        <en>New customer Withdraw.</en>
+    </detail>
+    
+    <detail>
+        <variable>ago_day</variable>
+        <th>วัน</th>
+        <en>days</en>
+    </detail>
+    <detail>
+        <variable>ago_hour</variable>
+        <th>ชั่วโมง</th>
+        <en>hrs</en>
+    </detail>
+    <detail>
+        <variable>ago_min</variable>
+        <th>นาที</th>
+        <en>mins</en>
+    </detail>
+    <detail>
+        <variable>ago_now</variable>
+        <th>เมื่อครู่นี้</th>
+        <en>just now</en>
+    </detail>
+    <!--  Notification -->
+
+    <!--  Other -->
+    
+    <detail>
+        <variable>info</variable>
+        <th>ข้อมูล </th>
+        <en>Info </en>
+    </detail>	
+    <detail>
+        <variable>add</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Add Data</en> 
+    </detail>
+    <detail>
+        <variable>confirmDelete</variable>
+        <th>คุณต้องการลบข้อมูลใช่หรือไม่ ?</th>
+        <en>Do you want to delete Information ?</en>
+    </detail>
+    <detail>
+        <variable>active</variable>
+        <th>ใช้งาน</th>
+        <en>Active</en> 
+    </detail>
+    <detail>
+        <variable>inactive</variable>
+        <th>ไม่ใช้งาน</th>
+        <en>Inactive</en> 
+    </detail> 
+    <detail>
+        <variable>label_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en> 
+    </detail>
+    <detail>
+        <variable>edit_info</variable>
+        <th>แก้ไขข้อมูล</th>
+        <en>Edit </en> 
+    </detail>
+    <detail>
+        <variable>add_info</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Add </en> 
+    </detail>
+    <detail>
+        <variable>config_live_youtube</variable>
+        <th>ตั้งค่าช่องไลฟ์ยูทูป</th>
+        <en>Setting Live Youtube</en> 
+    </detail>
+    <detail>
+        <variable>_enter</variable>
+        <th>คลิก</th>
+        <en>Enter</en> 
+    </detail>
+    <detail>
+        <variable>_subscript</variable>
+        <th>สมัครรับข่าวสาร</th>
+        <en>Subscribe</en> 
+    </detail>
+    <detail>
+        <variable>_readmore</variable>
+        <th>อ่านเพิ่มเติม</th>
+        <en>Read more</en> 
+    </detail>
+    <detail>
+        <variable>welcom</variable>
+        <th>ยินดีต้อนรับ</th>
+        <en>Welcom</en>
+    </detail>
+    <detail>
+        <variable>picture</variable>
+        <th>รูปภาพ</th>
+        <en>Picture</en>
+    </detail>
+    <detail>
+        <variable>picture_bw</variable>
+        <th>รูปภาพ ขาว-ดำ</th>
+        <en>Picture White-Black</en>
+    </detail>
+    <detail>
+        <variable>picture_color</variable>
+        <th>รูปภาพสี</th>
+        <en>Picture Color</en>
+    </detail>
+    <detail>
+        <variable>picture</variable>
+        <th>รูปภาพ</th>
+        <en>Picture</en>
+    </detail>
+    <detail>
+        <variable>index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en>
+    </detail>
+   
+    <detail>
+        <variable>url</variable>
+        <th>ลิงค์เว็บไซต์</th>
+        <en>Url Website</en> 
+    </detail>
+    
+    <detail>
+        <variable>donut_header</variable>
+        <th>จำนวนเกมการแข่งขันแยกตามประเภท</th>
+        <en>Number of match games by category</en> 
+    </detail>
+    <detail>
+        <variable>pending</variable>
+        <th>รอดำเนินการ</th>
+        <en>Pending</en> 
+    </detail>
+    <detail>
+        <variable>notification</variable>
+        <th>การแจ้งเตือน</th>
+        <en>Notification</en> 
+    </detail>
+    <detail>
+        <variable>view_all</variable>
+        <th>ดูทั้งหมด</th>
+        <en>view all</en> 
+    </detail>
+    <detail>
+        <variable>all</variable>
+        <th>เลือกทั้งหมด</th>
+        <en>Select All</en> 
+    </detail>
+    <detail>
+        <variable>view</variable>
+        <th>รายละเอียด</th>
+        <en>Detail</en> 
+    </detail>
+    <detail>
+        <variable>lb_create</variable>
+        <th>สร้าง</th>
+        <en>Create</en> 
+    </detail>
+    <detail>
+        <variable>lb_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail>
+    <detail>
+        <variable>lb_search_noInfo</variable>
+        <th>ไม่พบข้อมูลที่ทำการค้นหา</th>
+        <en>No search results found.</en> 
+    </detail>
+    <detail>
+        <variable>cs_list</variable>
+        <th>รายการ</th>
+        <en>list</en> 
+    </detail>
+    <detail>
+        <variable>today</variable>
+        <th>วันนี้</th>
+        <en>Today</en>
+    </detail>
+    <detail>
+        <variable>in</variable>
+        <th>ในวันที่</th>
+        <en>in</en>
+    </detail>	
+    <detail>
+        <variable></variable>
+        <th>ในวันที่</th>
+        <en>in</en>
+    </detail>	
+    <detail>
+        <variable>in</variable>
+        <th>ในวันที่</th>
+        <en>in</en>
+    </detail>	
+    <detail>
+        <variable>netbalance</variable>
+        <th>ยอดคงเหลือสุทธิ</th>
+        <en>Net balance</en>
+    </detail>	
+    <detail>
+        <variable>no_user</variable>
+        <th>ไม่ใช่</th>
+        <en>No</en>
+    </detail>
+    <detail>
+        <variable>lock_screen</variable>
+        <th>ล็อคหน้าจอ</th>
+        <en>Locked Screen</en>
+    </detail>	
+    <detail>
+        <variable>lb_status_mail</variable>
+        <th>สถานะ E-Mail </th>
+        <en>Status Email</en>
+    </detail>
+    <detail>
+        <variable>lb_status_email_y</variable>
+        <th>ใช่</th>
+        <en>Yes</en>
+    </detail>	
+    <detail>
+        <variable>lb_status_email_n</variable>
+        <th>ไม่</th>
+        <en>No</en>
+    </detail>
+    <detail>
+        <variable>lb_remark_youtube</variable>
+        <th>*** วิธีการดูรหัสช่องยูทูป กดคลิ๊กที่นี่</th>
+        <en>*** How to view the channel code Click here.</en>
+    </detail>	
+    <detail>
+        <variable>lb_type_admin</variable>
+        <th>ผู้ดูแลระบบ</th>
+        <en>Admin</en>
+    </detail>	    
+    <detail>
+        <variable>lb_stype_staff</variable>
+        <th>พนักงาน</th>
+        <en>Staff</en>
+    </detail>	
+	
+        
+    <detail>
+        <variable>lb_image_profile</variable>
+        <th>รูปภาพโปรไฟล์</th>
+        <en>Image Profile</en>
+    </detail>
+    <detail>
+        <variable>lb_login_system</variable>
+        <th>การเข้าใช้งานรบบ</th>
+        <en>Login System</en>
+    </detail>
+    
+    
+    <detail>
+        <variable>insert</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Insert Data</en>
+    </detail>
+    <detail>
+        <variable>update</variable>
+        <th>แก้ไขข้อมูล</th>
+        <en>Update Data</en>
+    </detail>
+    <detail>
+        <variable>delete</variable>
+        <th>ลบข้อมูล</th>
+        <en>Delete Data</en>
+    </detail>
+    <detail>
+        <variable>deleteall</variable>
+        <th>ลบข้อมูลทั้งหมด</th>
+        <en>Delete All Data</en>
+    </detail>
+    <detail>
+        <variable>lb_data_before</variable>
+        <th>ข้อมูลก่อนมีการเปลี่ยนแปลง</th>
+        <en>Before Data</en>
+    </detail>
+    <detail>
+        <variable>lb_data_after</variable>
+        <th>ข้อมูลหลังมีการเปลี่ยนแปลง</th>
+        <en>After Data</en>
+    </detail>
+    <detail>
+        <variable>lb_game</variable>
+        <th>เกมเดิมพัน</th>
+        <en>Game</en>
+    </detail>
+    <detail>
+        <variable>lb_bank_amt_base</variable>
+        <th>ยอดเงินตั้งต้น</th>
+        <en>Amount Base</en>
+    </detail>
+    <detail>
+        <variable>lb_bank_amt_current</variable>
+        <th>ยอดเงินในบัญชีปัจจุบัน</th>
+        <en>Game</en>
+    </detail>
+    
+    <!--  Other -->
+    
+    
+    <!--  Button -->
+    <detail>
+        <variable>btn_ok</variable>
+        <th>ตกลง</th>
+        <en>OK</en> 
+    </detail>
+    <detail>
+        <variable>btn_submit</variable>
+        <th>ตกลง</th>
+        <en>SUBMIT</en> 
+    </detail>
+    <detail>
+        <variable>btn_yes</variable>
+        <th>ยืนยัน</th>
+        <en>Yes</en> 
+    </detail>
+    <detail>
+        <variable>btn_search</variable>
+        <th>ค้นหา</th>
+        <en>Search</en> 
+    </detail>
+    <detail>
+        <variable>btn_cancel</variable>
+        <th>ยกเลิก</th>
+        <en>Cancel</en> 
+    </detail>
+    <detail>
+        <variable>btn_next</variable>
+        <th>ถัดไป</th>
+        <en>Next</en> 
+    </detail> 
+    <detail>
+        <variable>btn_previous</variable>
+        <th>ย้อนกลับ</th>
+        <en>Prevoius</en> 
+    </detail> 
+    <detail>
+        <variable>btn_confirm</variable>
+        <th>ยืนยัน</th>
+        <en>Confirm</en>
+    </detail>
+    <detail>
+        <variable>btn_send_confirm</variable>
+        <th>ส่ง E-Mail สมัครงานใช้งานสำเร็จ</th>
+        <en>Send us an email.</en>
+    </detail>
+    <detail>
+        <variable>btn_loginmail</variable>
+        <th>เข้าใช้งานเว็บเมล์ z.com </th>
+        <en>Access Webmail to z.com</en> 
+    </detail>
+    <detail>
+        <variable>btn_browse</variable>
+        <th>เรียกดู...</th>
+        <en>Browse...</en>
+    </detail>
+    <detail>
+        <variable>btn_close</variable>
+        <th>ปิด</th>
+        <en>Close</en>
+    </detail>
+    <detail>
+        <variable>btn_test_email</variable>
+        <th>ทดสอบส่ง E-Mail </th>
+        <en>Test Email</en>
+    </detail>
+    <detail>
+        <variable>btn_approve</variable>
+        <th>อนุมัติ</th>
+        <en>Approve</en>
+    </detail>
+    <detail>
+        <variable>btn_reject</variable>
+        <th>ปฏิเสธ</th>
+        <en>Reject</en>
+    </detail>
+    <detail>
+        <variable>btn_delete_all</variable>
+        <th>ลบข้อมูล</th>
+        <en>DELETE ALL</en>
+    </detail>
+    <detail>
+        <variable>btn_clear_all</variable>
+        <th>เคลียข้อมูล</th>
+        <en>CLEAR ALL</en>
+    </detail>
+    <detail>
+        <variable>btn_add</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>ADD DATA</en> 
+    </detail>
+    <detail>
+        <variable>btn_select_img</variable>
+        <th>เลือกรูปภาพ</th>
+        <en>Select Image</en> 
+    </detail>
+    <detail>
+        <variable>btn_select_file</variable>
+        <th>เลือกไฟล์</th>
+        <en>Select File</en> 
+    </detail>
+    <detail>
+        <variable>btn_remove</variable>
+        <th>ลบออก</th>
+        <en>Remove</en> 
+    </detail>
+    <detail>
+        <variable>btn_change</variable>
+        <th>เปลี่ยน</th>
+        <en>Change</en> 
+    </detail>
+    <detail>
+        <variable>btn_test</variable>
+        <th>ทดสอบส่ง E-Mail </th>
+        <en>TEST</en>
+    </detail>
+    <detail>
+        <variable>btn_sendmail</variable>
+        <th>ส่ง E-Mail </th>
+        <en>SEND EMAIL</en>
+    </detail>
+    <detail>
+        <variable>btn_import</variable>
+        <th>นำเข้าไฟล์</th>
+        <en>IMPOPRT FILE</en>
+    </detail>
+    <!--  Button -->
+    
+    
+    
+	
+    <!--  month -->
+    <detail>
+        <variable>m_01</variable>
+        <th>มกราคม</th>
+        <en>January</en>
+    </detail>
+    <detail>
+        <variable>m_02</variable>
+        <th>กุมภาพันธ์</th>
+        <en>February</en>
+    </detail>
+    <detail>
+        <variable>m_03</variable>
+        <th>มีนาคม</th>
+        <en>March</en>
+    </detail>
+    <detail>
+        <variable>m_04</variable>
+        <th>เมษายน</th>
+        <en>April</en>
+    </detail>
+    <detail>
+        <variable>m_05</variable>
+        <th>พฤษภาคม</th>
+        <en>May</en>
+    </detail>
+    <detail>
+        <variable>m_06</variable>
+        <th>มิถุนายน</th>
+        <en>June</en>
+    </detail>
+    <detail>
+        <variable>m_07</variable>
+        <th>กรกฎาคม</th>
+        <en>July</en>
+    </detail>
+    <detail>
+        <variable>m_08</variable>
+        <th>สิงหาคม</th>
+        <en>August</en>
+    </detail>
+    <detail>
+        <variable>m_09</variable>
+        <th>กันยายน</th>
+        <en>September</en>
+    </detail>
+    <detail>
+        <variable>m_10</variable>
+        <th>ตุลาคม</th>
+        <en>October</en>
+    </detail>
+    <detail>
+        <variable>m_11</variable>
+        <th>พฤศจิกายน</th>
+        <en>November</en>
+    </detail>
+    <detail>
+        <variable>m_12</variable>
+        <th>ธันวาคม</th>
+        <en>December</en>
+    </detail>
+	
+    <!--  month -->
+	
+	
+	
+    <!--  Menu -->
+    <detail>
+        <variable>myprofile</variable>
+        <th>ข้อมูลส่วนตัว</th>
+        <en>My Profile</en>
+    </detail>
+    <detail>
+        <variable>lockscreen</variable>
+        <th>ล็อคหน้าจอ</th>
+        <en>Lock Screen</en>
+    </detail>
+    <detail>
+        <variable>logout</variable>
+        <th>ออกจากระบบ</th>
+        <en>Logout</en>
+    </detail>
+    <detail>
+        <variable>home_overview</variable>
+        <th>ภาพรวมระบบ</th>
+        <en>Over View</en>
+    </detail>
+    <detail>
+        <variable>home</variable>
+        <th>หน้าหลัก</th>
+        <en>Dashboard</en>
+    </detail>
+    <detail>
+        <variable>nagieos_bet</variable>
+        <th>NAGIEOS BET</th>
+        <en>NAGIEOS BET</en>
+    </detail>
+    <detail>
+        <variable>app_nagieos_bet</variable>
+        <th>ระบบพนักงาน</th>
+        <en>System Staff</en>
+    </detail>
+    
+    <detail>
+        <variable>home</variable>
+        <th>หน้าหลัก</th>
+        <en>Dashboard</en>
+    </detail>
+    <detail>
+        <variable>license</variable>
+        <th>License</th>
+        <en>License</en>
+    </detail>
+    <detail>
+        <variable>deposit</variable>
+        <th>แจ้งฝาก</th>
+        <en>Deposit</en>
+    </detail>
+    <detail>
+        <variable>withdraw</variable>
+        <th>แจ้งถอน</th>
+        <en>Withdraw</en>
+    </detail>
+    <detail>
+        <variable>register</variable>
+        <th>สมัครสมาชิก</th>
+        <en>Register</en>
+    </detail>
+    <detail>
+        <variable>register_adm</variable>
+        <th>สร้างบัญชีพนักงาน</th>
+        <en>Create Staff</en>
+    </detail>
+    <detail>
+        <variable>bank</variable>
+        <th>บัญชีธนาคาร</th>
+        <en>Bank</en>
+    </detail>
+    <detail>
+        <variable>find_bank_auto</variable>
+        <th>กดเพื่อดึงข้อมูลบัญชีธนาคารอัตโนมัติ</th>
+        <en>Click for Bank auto</en>
+    </detail>
+    
+    <detail>
+        <variable>report</variable>
+        <th>ข้อมูลแจ้ง ฝาก-ถอน</th>
+        <en>Info Deposit-Withdraw</en>
+    </detail>
+    <detail>
+        <variable>report_log</variable>
+        <th>รายงานสถานะ</th>
+        <en>Report History</en>
+    </detail>
+    <detail>
+        <variable>promotion</variable>
+        <th>โปรโมชัน</th>
+        <en>Promotion</en>
+    </detail>
+    <detail>
+        <variable>promotion_rg</variable>
+        <th>โปรโมชันสมัครสมาชิก</th>
+        <en>Promotion Register</en>
+    </detail>
+    <detail>
+        <variable>promotion_dp</variable>
+        <th>โปรโมชัน</th>
+        <en>Promotion</en>
+    </detail>
+    <detail>
+        <variable>nagieos_post</variable>
+        <th>NAGIEOS POST</th>
+        <en>NAGIEOS POST</en>
+    </detail>
+    <detail>
+        <variable>app_nagieos_post</variable>
+        <th>ระบบผู้ดูแล</th>
+        <en>System Admin</en>
+    </detail>
+    <detail>
+        <variable>picture</variable>
+        <th>รูปภาพ</th>
+        <en>Picture</en>
+    </detail>
+    <detail>
+        <variable>video</variable>
+        <th>วิดีโอ</th>
+        <en>Video</en>
+    </detail>
+    <detail>
+        <variable>news</variable>
+        <th>ข่าว</th>
+        <en>News</en>
+    </detail>
+    <detail>
+        <variable>email</variable>
+        <th> E-Mail </th>
+        <en>Email</en>
+    </detail>
+    <detail>
+        <variable>live_youtube</variable>
+        <th>ไลฟ์ยูทูป</th>
+        <en>Live Youtube</en>
+    </detail>
+    <detail>
+        <variable>popup_promotion</variable>
+        <th>โปรโมชัน แจ้งเตือน</th>
+        <en>Promotion Alerts</en>
+    </detail>
+    <detail>
+        <variable>nagieos_ui</variable>
+        <th>NAGIEOS UI</th>
+        <en>NAGIEOS UI</en>
+    </detail>
+    <detail>
+        <variable>app_nagieos_ui</variable>
+        <th>APP NAGIEOS UI</th>
+        <en>APP NAGIEOS UI</en>
+    </detail>
+    
+    <detail>
+        <variable>home</variable>
+        <th>หน้าหลัก</th>
+        <en>Dashboard</en>
+    </detail>
+    <detail>
+        <variable>slide</variable>
+        <th>สไลด์</th>
+        <en>Slide</en>
+    </detail>
+    <detail>
+        <variable>gallery</variable>
+        <th>แกลลอรี่</th>
+        <en>Gallery</en>
+    </detail>
+    
+    <detail>
+        <variable>vip</variable>
+        <th>เครือข่ายผู้ใช้งาน</th>
+        <en>User network</en>
+    </detail>
+    
+    <!--  Menu -->
+    
+    
+    <!--  footer  -->
+    <detail>
+        <variable>foot_tel</variable>
+        <th>เบอรโทรศัพท์</th>
+        <en>Tel</en>
+    </detail>
+    <detail>
+        <variable>foot_email</variable>
+        <th> E-Mail </th>
+        <en>Email</en>
+    </detail>
+    <detail>
+        <variable>foot_fax</variable>
+        <th>แฟ๊กซ์</th>
+        <en>Fax</en>
+    </detail>
+    
+    <detail>
+        <variable>foot_content</variable>
+        <th></th>
+        <en></en>
+    </detail>
+    <!--  footer  -->
+	
+        
+        
+    <!--  table  -->
+    <detail>
+        <variable>tb_co_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en>
+    </detail>
+    <detail>
+        <variable>tb_co_date</variable>
+        <th>วันที่</th>
+        <en>Date</en>
+    </detail>
+    <detail>
+        <variable>tb_co_image</variable>
+        <th>รูปภาพ</th>
+        <en>Picture</en>
+    </detail>
+    <detail>
+        <variable>tb_co_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en>
+    </detail>
+    <detail>
+        <variable>tb_co_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en>
+    </detail>
+    <detail>
+        <variable>tb_co_name</variable>
+        <th>ชื่อ</th>
+        <en>Name</en>
+    </detail>
+    <detail>
+        <variable>tb_co_phone</variable>
+        <th>เบอร์โทร</th>
+        <en>Phone</en>
+    </detail>
+    <detail>
+        <variable>tb_co_username</variable>
+        <th>ชื่อผู้ใช้งาน (Username)</th>
+        <en>Username</en>
+    </detail>
+    <detail>
+        <variable>tb_co_amount</variable>
+        <th>จำนวนเงิน</th>
+        <en>Amount</en>
+    </detail>
+    <detail>
+        <variable>tb_co_bank</variable>
+        <th>ธนาคาร</th>
+        <en>Bank</en>
+    </detail>
+    <detail>
+        <variable>tb_co_datetime</variable>
+        <th>วันเวลา</th>
+        <en>Datetime</en>
+    </detail>
+    <detail>
+        <variable>tb_co_premise</variable>
+        <th>หลักฐาน</th>
+        <en>Premise</en>
+    </detail>
+    
+    <detail>
+        <variable>tb_co_bank_no</variable>
+        <th>เลขบัญชี</th>
+        <en>Bank no</en>
+    </detail>
+    <detail>
+        <variable>tb_co_bank_name_th</variable>
+        <th>ชื่อบัญชี</th>
+        <en>Bank Name (TH)</en>
+    </detail>
+    <detail>
+        <variable>tb_co_bank_name_en</variable>
+        <th>ชื่อบัญชี (อังกฤษ)</th>
+        <en>Bank Name (EN)</en>
+    </detail>
+    <detail>
+        <variable>tb_co_fullname</variable>
+        <th>ชื่อ - นามสกุล</th>
+        <en>Fullname</en>
+    </detail>
+    
+    <detail>
+        <variable>tb_co_pointion</variable>
+        <th>ตำแหน่ง</th>
+        <en>Position</en>
+    </detail>
+    <detail>
+        <variable>tb_co_type</variable>
+        <th>ประเภท</th>
+        <en>Type</en>
+    </detail>
+    <detail>
+        <variable>tb_co_server</variable>
+        <th>เซอร์เวอร์</th>
+        <en>Server</en>
+    </detail>
+    <detail>
+        <variable>tb_co_index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en>
+    </detail>
+    <detail>
+        <variable>tb_co_prom_name_th</variable>
+        <th>โปรโมชัน</th>
+        <en>Promotion TH</en>
+    </detail>
+    <detail>
+        <variable>tb_co_prom_name_en</variable>
+        <th>โปรโมชันภาษาอังกฤษ</th>
+        <en>Promotion EN</en>
+    </detail>
+    
+    <detail>
+        <variable>tb_co_sub_pic</variable>
+        <th>หัวข้อรูปภาพ</th>
+        <en>Subject Picture</en>
+    </detail>
+    <detail>
+        <variable>tb_co_domain</variable>
+        <th>โดเมน</th>
+        <en>Domain</en>
+    </detail>
+    <detail>
+        <variable>tb_co_license</variable>
+        <th>License</th>
+        <en>License</en>
+    </detail>
+    <detail>
+        <variable>tb_co_function</variable>
+        <th>ฟังชั่น</th>
+        <en>Function</en>
+    </detail>
+    
+    <!--  table  --> 
+        
+    <!--  Title Header  --> 
+    <detail>
+        <variable>tt_config</variable>
+        <th>ตั้งค่าฟังชัน และ ธนาคาร</th>
+        <en>Config and Bank</en>
+    </detail>
+    <detail>
+        <variable>tt_register</variable>
+        <th>จัดการข้อมูลการสมัครสมาชิก</th>
+        <en>MANAGED REGISTER</en>
+    </detail>
+    <detail>
+        <variable>tt_register_adm</variable>
+        <th>จัดการข้อมูลการสมัครสมาชิกพนักงาน</th>
+        <en>MANAGED REGISTER ADMIN</en>
+    </detail>
+    <detail>
+        <variable>tt_detail</variable>
+        <th>รายละเอียด</th>
+        <en>DETAIL</en>
+    </detail>
+    <detail>
+        <variable>tt_user</variable>
+        <th>ชื่อผู้ใช้งาน</th>
+        <en>USERNAME</en>
+    </detail>
+    <detail>
+        <variable>tt_user_deposit</variable>
+        <th>ข้อมูลฝากแรกเข้า</th>
+        <en>Info Deposit First</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_license</variable>
+        <th>จัดการข้อมูล license</th>
+        <en>MANAGED LICENSE</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_dp</variable>
+        <th>จัดการข้อมูลแจ้งฝากเงิน</th>
+        <en>MANAGED DEPOSIT</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_wd</variable>
+        <th>จัดการข้อมูลแจ้งถอนเงิน</th>
+        <en>MANAGED WITHDRAW</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_promotion_rg</variable>
+        <th>จัดการข้อมูลโปรโมชันสมัครสมาชิก</th>
+        <en>MANAGED PROMOTION REGISTER</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_promotion_dp</variable>
+        <th>จัดการข้อมูลโปรโมชัน</th>
+        <en>MANAGED PROMOTION DEPOSIT</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_bank</variable>
+        <th>จัดการข้อมูลบัญชีธนาคาร</th>
+        <en>MANAGED BANK</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_report</variable>
+        <th>ค้นหาข้อมูล แจ้งฝาก - แจ้งถอน</th>
+        <en>SEARCH INFOMATION DEPOSIT - WITHDRAW</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_report_log</variable>
+        <th>ค้นหาข้อมูล รายงานสถานะ</th>
+        <en>SEARCH INFOMATION REPORT STATUS</en>
+    </detail>
+    
+    <detail>
+        <variable>tt_chart_one</variable>
+        <th>สถิติการ แจ้งฝาก - แจ้งถอน เงินของเว็บไซต์ แบบกราฟ</th>
+        <en>Statistical indicators deposit - withdrawal of the website on graph.</en>
+    </detail>
+    <detail>
+        <variable>tt_chart_two</variable>
+        <th>สถิติการ แจ้งฝาก - แจ้งถอน เงินของเว็บไซต์ แบบแผนภูมิแท่ง</th>
+        <en>Statistical indicators deposit - withdrawal of the website on barchart.</en>
+    </detail>
+    
+    <detail>
+        <variable>tt_mg_slide</variable>
+        <th>จัดการข้อมูลสไลด์</th>
+        <en>MANAGED SLIDE</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_gallery</variable>
+        <th>จัดการข้อมูลแกลลอรี่</th>
+        <en>MANAGED GALLERY</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_image</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en>
+    </detail>
+    <detail>
+        <variable>tt_profile</variable>
+        <th>บัญชีผู้ใช้</th>
+        <en>PROFILE ACCOUNT</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_picture</variable>
+        <th>จัดการข้อมูลรูปภาพ</th>
+        <en>MANAGED PICTURE</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_video</variable>
+        <th>จัดการข้อมูลวีดีโอ</th>
+        <en>MANAGED VIDEO</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_news</variable>
+        <th>จัดการข้อมูลข่าว</th>
+        <en>MANAGED NEWS</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_vip</variable>
+        <th>นำเข้าข้อมูลไฟล์</th>
+        <en>IMPORT FILE</en>
+    </detail>
+    <detail>
+        <variable>tt_mg_map_user</variable>
+        <th>จัดการข้อมูลเครือข่ายผู้ใช้งาน</th>
+        <en>MANAGED NETWORK USER</en>
+    </detail>
+    <detail>
+        <variable>tt_main</variable>
+        <th>ผู้ใช้หลัก</th>
+        <en>MAIN USER</en>
+    </detail>
+    <detail>
+        <variable>tt_sub</variable>
+        <th>ผู้ใช้รอง</th>
+        <en>SUB USER</en>
+    </detail>
+    <detail>
+        <variable>tt_view_log</variable>
+        <th>ประวัติรายงานสถานะ</th>
+        <en>HISTORY REPORT STATUS</en>
+    </detail>
+    
+    <!--  Title Header  --> 
+        
+        
+    <!--  Type User  --> 
+    <detail>
+        <variable>type_admin</variable>
+        <th>ผู้ดูแลระบบ</th>
+        <en>Administrator</en>
+    </detail>
+    <detail>
+        <variable>type_user</variable>
+        <th>ผู้ใช้งานทั่วไป</th>
+        <en>Public User</en>
+    </detail>
+    <!--  Type User  -->    
+        
+        
+    <!-- Response Code -->
+    <detail>
+        <variable>cd_0000</variable>
+        <th>0000,ทำรายการสำเร็จ</th>
+        <en>0000,Transaction Success</en> 
+    </detail>
+    <detail>
+        <variable>cd_2001</variable>
+        <th>2001,ทำรายการไม่สำเร็จ</th>
+        <en>2001,Transaction Not Success</en> 
+    </detail>
+    <detail>
+        <variable>cd_2002</variable>
+        <th>2002,กรุณาระบุข้อมูลเป็นตัวเลขด้วยค่ะ</th>
+        <en>2002,Please write your numberics.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2003</variable>
+        <th>2003,กรุณาระบุข้อมูล field เป็นตัวเลขด้วยค่ะ</th>
+        <en>2003,Please write your field numberics.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2004</variable>
+        <th>2004,กรุณาระบุรหัสสีให้ถูกต้องด้วยค่ะ</th>
+        <en>2004,Please enter the code color you are looking for.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2005</variable>
+        <th>2005,กรุณาเลือกข้อมูลที่ต้องการลบด้วยค่ะ</th>
+        <en>2005,Please select the information you want to delete.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2006</variable>
+        <th>2006,กรุณาระบุข้อมูล E-Mail ให้ถูกต้องค่ะ</th>
+        <en>2006,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2007</variable>
+        <th>2007,มีข้อมูลผู้ใช้งานนี้แล้วในระบบ</th>
+        <en>2007,Username is already in the system.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2008</variable>
+        <th>cd_2008,กรุณาระบุข้อมูล E-Mail ให้ถูกต้องค่ะ</th>
+        <en>cd_2008,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2009</variable>
+        <th>cd_2009,ไม่พบ E-Mail นี้ในระบบ</th>
+        <en>cd_2009,No Email address in System.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2099</variable>
+        <th>2099,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>2099,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2098</variable>
+        <th>2098,กรุณาระบุข้อมูล field โดยมีความยาวไม่เกิน xxx ตัวอักษร</th>
+        <en>2098,Please write your field limit xxx lenght.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2097</variable>
+        <th>2097,กรุณาระบุข้อมูล field ให้ถูกต้องตามรูปบบที่กำหนด</th>
+        <en>2097,Please write your field information as required.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2200</variable>
+        <th>2200,ไม่มีข้อมูลใดๆ</th>
+        <en>2200,No information</en> 
+    </detail>
+    <detail>
+        <variable>cd_2201</variable>
+        <th>2201,ข้อมูลไม่สมบูรณ์</th>
+        <en>2201,Data Incomplete</en> 
+    </detail>
+    <detail>
+        <variable>cd_2203</variable>
+        <th>2202,กรุณาใส่วันที่</th>
+        <en>2202,Please Enter Date Time</en> 
+    </detail>
+    <detail>
+        <variable>cd_2203</variable>
+        <th>2203,ใส่ได้เฉาะไฟล์ PDF เท่านั้น</th>
+        <en>2203,Insert Only PDF</en> 
+    </detail>
+    <detail>
+        <variable>cd_2204</variable>
+        <th>2204,ใส่ได้เฉพาะไฟล์ JPG หรือ PNG เท่านั้น</th>
+        <en>2204,Insert Only JPG or PNG</en> 
+    </detail>
+    <detail>
+        <variable>cd_2205</variable>
+        <th>2205,กรุณากรอก หัวข้อภาษาไทย</th>
+        <en>2205,Please enter Subject TH.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2206</variable>
+        <th>2206,กรุณากรอก หัวข้อภาษาอังกฤษ</th>
+        <en>2206,Please enter Subject EN.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2208</variable>
+        <th>2208,กรุณา เลือกวันที่</th>
+        <en>2208,Please Select Date</en> 
+    </detail>
+    <detail>
+        <variable>cd_2207</variable>
+        <th>2207,กรุณา อัพโหลดไฟล์รูปภาพ </th>
+        <en>2207,Please Upload images file.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2209</variable>
+        <th>2209,กรุณา อัพโหลดไฟล์ PDF</th>
+        <en>2209,Please Upload PDF file.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2210</variable>
+        <th>2210,ประเภทไฟล์ที่ทำการอัพโหลดไม่ถูกต้อง </th>
+        <en>2210,Type the file uploaded incorrect.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2211</variable>
+        <th>2211,ขนาดของไฟล์รูปภาพไม่อยู่ในขนาดที่กำหนด </th>
+        <en>2211,the size of the image file size is not specified.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2212</variable>
+        <th>2212,ขนาดของไฟล์เอกสารไม่อยู่ในขนาดที่กำหนด </th>
+        <en>2212,the size of the document file size is not specified.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2213</variable>
+        <th>2213,กรุณารูปภาพ ขาว-ดำ ที่มีขนาดความสูงไม่เกิน 100px </th>
+        <en>2213,Please black and white images at a maximum height of 100px.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2214</variable>
+        <th>2214,กรุณา อัพโหลดไฟล์ข้อมูล </th>
+        <en>2214,Please Upload Excel file.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2215</variable>
+        <th>2215,มีข้อมูลผู้ใช้หลักนี้แล้วในระบบ </th>
+        <en>2215,Main user is already in the system.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2216</variable>
+        <th>2216,ข้อมูลผู้ใช้งาน field เคยถูกใช้เป็นผู้ใช้รองแล้วในระบบ โดยมีผู้ใช้หลักคือ f1 </th>
+        <en>2216,Main user field is already in the system. The main user is f1 </en> 
+    </detail>
+    <detail>
+        <variable>cd_2217</variable>
+        <th>2217,มีข้อมูลผู้ใช้รองซ้ำกัน </th>
+        <en>2217,Sub User is Dupplicate </en> 
+    </detail>
+    <detail>
+        <variable>cd_2218</variable>
+        <th>2218,ข้อมูลผู้หลักและผู้ใช้รองห้ามเหมือนกัน </th>
+        <en>2218,Primary and secondary users are prohibited. </en> 
+    </detail>
+    <detail>
+        <variable>cd_2219</variable>
+        <th>2219,กรุณาระบุข้อมูลผู้ใช้รอง </th>
+        <en>2219,Please provide secondary user information.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2220</variable>
+        <th>2220,กรุณาระบุข้อมูลจำนวนเงินแจ้งฝากให้มากกว่า 0 บาท</th>
+        <en>2220,Please specify the amount of deposit more than 0 baht.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2221</variable>
+        <th>2221,กรุณาระบุข้อมูลจำนวนเงินแจ้งฝากครั้งแรกให้มากกว่า 0 บาท</th>
+        <en>2221,please specify the amount of your first deposit for more than 0 Baht</en> 
+    </detail>
+    <detail>
+        <variable>cd_2222</variable>
+        <th>2222,จำนวนสิทธิ์การใช้โปรโมชันนี้ของ #user ครบตามจำนวนแล้ว</th>
+        <en>2222,This number of promotion privileges for #user has expired.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2223</variable>
+        <th>2223,ไม่มีผู้ใช้งานนี้ในระบบ</th>
+        <en>2223,No users in this system.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2224</variable>
+        <th>2224,รหัสถอนเงินไม่ถูกต้อง</th>
+        <en>2224,Invalid security code.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2225</variable>
+        <th>2225,ข้อมูลบัญชีธนาคารไม่ถูกต้อง</th>
+        <en>2225,Bank Account Invalid.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2301</variable>
+        <th>2301,กรุณาระบุชื่อภาษาไทย </th>
+        <en>2301,Please enter Name TH.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2302</variable>
+        <th>2302,กรุณาระบุชื่อภาษาอังกฤษ </th>
+        <en>2302,Please enter Name EN.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2303</variable>
+        <th>2303,กรุณาระบุลิงค์เว็บไซต์ </th>
+        <en>2303,Please enter URL Website.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2304</variable>
+        <th>2304,กรุณา อัพโหลดไฟล์โลโก้ </th>
+        <en>2304,Please Upload logo image.</en> 
+    </detail>
+    
+    
+    
+    
+    
+    <detail>
+        <variable>cd_4001</variable>
+        <th>4001,ชื่อผู้เข้าใช้งานสามารถใส่ได้เฉพาะ [a-zA-z0-9] เท่านั้น</th>
+        <en>4001,Username Identify [a-zA-z0-9] only.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4002</variable>
+        <th>4002,รหัสผ่านสำหรับเข้าใช้งานสามารถใส่ได้เฉพาะ [a-zA-z0-9] เท่านั้น</th>
+        <en>4002,Password Identify [a-zA-z0-9] only.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4003</variable>
+        <th>4003,ชื่อผู้เข้าใช้งาน หรือ รหัสผ่านสำหรับเข้าใช้งานไม่ถูกต้อง</th>
+        <en>4003,Username and Password Invalid.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4004</variable>
+        <th>4004,รหัสภาพไม่ถูกต้อง</th>
+        <en>4004,Captcha Invalid.</en> 
+    </detail>
+	
+    <detail>
+        <variable>con_0000</variable>
+        <th>CON0000,ข้อความของคุณถูกส่งไปเรียบร้อย เราจะตอบคุณโดยเร็วที่สุดเท่าที่เป็นไปได้ ขอบคุณค่ะ</th>
+        <en>CON0000,Thank you. Your message has been successfully sent. We will reply you as soon as possible.</en> 
+    </detail>
+    <detail>
+        <variable>con_3001</variable>
+        <th>CON3001,คุณทำรายการไม่สำเร็จ กรุณารองทำใหม่อีกครั้งค่ะ</th>
+        <en>CON3001,Transaction not succeed Please make a new bargain again.</en> 
+    </detail>
+    
+    <detail>
+        <variable>con_3002</variable>
+        <th>CON3002,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>CON3002,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>con_3003</variable>
+        <th>CON3003,กรุณาระบุข้อมูล E-Mail ให้ถูกต้องค่ะ</th>
+        <en>CON3003,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>con_3004</variable>
+        <th>CON3004,กรุณาระบุข้อมูล field ให้ถูกต้อง โดยห้ามใช้อักขระพิเศษด้วยค่ะ</th>
+        <en>CON3004,Please write your field by prohibiting the use of special characters.</en> 
+    </detail>
+    
+    <detail>
+        <variable>newsletter_3102</variable>
+        <th>NEWS3102,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>NEWS3102,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3103</variable>
+        <th>NEWS3103,กรุณาระบุข้อมูล E-Mail ให้ถูกต้องค่ะ</th>
+        <en>NEWS3103,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3105</variable>
+        <th>NEWS3105,กรุณาระบุข้อมูล E-Mail  และ  E-Mail ์ยืนยันให้เหมือนกันค่ะ</th>
+        <en>NEWS3105,Email address not match email confirm.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3104</variable>
+        <th>NEWS3104,กรุณาระบุข้อมูล field ให้ถูกต้อง โดยห้ามใช้อักขระพิเศษด้วยค่ะ</th>
+        <en>NEWS3104,Please write your field by prohibiting the use of special characters.</en> 
+    </detail>
+    <detail>
+        <variable>news_3106</variable>
+        <th>NEWS3106,คุณได้เคยทำการสมัครรับข้อมูลข่าวสารจากทางเราแล้วค่ะ หากต้องการเปลี่ยนหมวดหมู่รับข่าวสารกรุณาติดต่อเจ้าหน้าที่ค่ะ</th>
+        <en>NEWS3106,You've had your subscription to our newsletter here. To change the category for news, please contact me.</en> 
+    </detail>
+    
+    <detail>
+        <variable>news_0000</variable>
+        <th>NEWS0000,ข้อมูลของคุณถูกส่งไปเป็นที่เรียบร้อย ขอขอบคุณที่ให้ความสนใจในบริการของเรา ขอบคุณค่ะ</th>
+        <en>NEWS0000,Your information has been successfully sent. Thank you for your interest in our service.</en> 
+    </detail>
+    <detail>
+        <variable>news_3101</variable>
+        <th>NEWS3101,คุณทำรายการไม่สำเร็จ กรุณารองทำใหม่อีกครั้งค่ะ</th>
+        <en>NEWS3101,Transaction not succeed Please make a new bargain again.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_4101</variable>
+        <th>4101,รหัสผ่านเดิมไม่ถูกต้อง</th>
+        <en>4101,The old password is incorrect.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4102</variable>
+        <th>4102,รหัสผ่านยืนยันไม่ถูกต้อง</th>
+        <en>4102,The Confirm password is incorrect.</en> 
+    </detail>
+    
+    
+    
+    <!-- Response Code -->
+    
+    
+	
+	
+</language>
